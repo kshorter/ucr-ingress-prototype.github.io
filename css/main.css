@@ -5,7 +5,7 @@ body {
 
   background-image: url(/img/bean.jpg);
   background-repeat: no-repeat;
-  background-size: auto 100%;
+  background-size: contain;
   background-position: center top;
 }
 
