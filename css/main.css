@@ -149,7 +149,7 @@ and (max-device-width : 480px) {
   #join_ucr {
     text-align: center;
     position : fixed;
-    font-size: 0px;
+    font-size: 30px;
     font-weight: bold;
     padding-top: 0px;
     padding-bottom: 0px;
